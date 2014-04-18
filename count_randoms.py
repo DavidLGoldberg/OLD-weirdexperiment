@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import random, itertools
 
 counts = {0: 0, 1: 0}

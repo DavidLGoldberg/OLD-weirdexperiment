@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import random, itertools
 
 rand = random.choice((0, 1))
