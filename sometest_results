@@ -1,0 +1,34 @@
+[3]    22915 done       ./main.bash >> results
+➜  weirdexperiment git:(master) ✗
+[2]    22873 done       ./main.bash >> results
+➜  weirdexperiment git:(master) ✗
+[4]    22957 done       ./main.bash >> results
+➜  weirdexperiment git:(master) ✗
+[5]    22999 done       ./main.bash >> results
+➜  weirdexperiment git:(master) ✗
+[1]    22831 done       ./main.bash >> results
+➜  weirdexperiment git:(master) ✗
+[6]  - 23041 done       ./main.bash >> results
+➜  weirdexperiment git:(master) ✗
+[7]  + 23084 done       ./main.bash >> results
+➜  weirdexperiment git:(master) ✗ htop
+➜  weirdexperiment git:(master) ✗ cat results
+Same: 14
+Different: 6
+Same: 9
+Different: 11
+Same: 14
+Different: 6
+Same: 16
+Different: 4
+Same: 14
+Different: 6
+Same: 12
+Different: 8
+Same: 12
+Different: 8
+Same: 11
+Different: 9
+
+The following was done while out was still being shared between em all...
+cpu was going nuts heard laptop..
