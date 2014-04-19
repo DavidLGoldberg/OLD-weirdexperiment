@@ -1,3 +1,3 @@
 Command to run:
 
-parallel python ::: ./spam_a_random.py ./count_randoms.py
+➜  weirdexperiment git:(master) ✗ cat results | grep Same | cut -d' ' -f 2 | awk '{s+=$1} END {print s}'
